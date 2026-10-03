@@ -110,13 +110,29 @@ Die Analyse zeigt unter anderem:
 
 ## Ergebnisvisualisierung
 
+### Umsatzwachstum 2008–2024
+
+![Umsatzwachstum 2008–2024](output/charts/01_umsatzwachstum_2008_2024.png)
+
 ### Umsatz je tätige Person 2024
 
 ![Umsatz je tätige Person 2024](output/charts/02_umsatz_je_taetige_person_2024.png)
 
+### Bruttolohn je Lohn- und Gehaltsempfänger 2024
+
+![Bruttolohn je Empfänger 2024](output/charts/03_bruttolohn_je_empfaenger_2024.png)
+
 ### Bruttowertschöpfung je tätige Person 2024
 
-![Bruttowertschöpfung je tätige Person 2024](output/charts/04_bruttowertschoepfung_2024.png)
+![Bruttowertschöpfung 2024](output/charts/04_bruttowertschoepfung_2024.png)
+
+### Wachstum der Bruttowertschöpfung 2008–2024
+
+![Wachstum der Bruttowertschöpfung](output/charts/05_wachstum_bruttowertschoepfung.png)
+
+### Entwicklung der Bruttowertschöpfung 2008–2024
+
+![Trend der Bruttowertschöpfung](output/charts/06_trend_bruttowertschoepfung.png)
 
 ## Statistik und IT
 
