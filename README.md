@@ -148,6 +148,22 @@ Fachliche statistische Regeln werden dabei in technische Verarbeitungsschritte �
 
 Damit bildet das Projekt eine einfache Schnittstelle zwischen statistischer Fachlogik und technischer Umsetzung ab.
 
+## Anforderungsanalyse
+
+Die fachlichen und technischen Anforderungen des Analyseprozesses sind separat dokumentiert.
+
+Dazu gehören unter anderem:
+
+- Datenimport und Datenqualität
+- Plausibilitätsprüfungen
+- Standardisierte Datenaufbereitung
+- Reproduzierbare Verarbeitung
+- Modularität und Erweiterbarkeit
+- Übersetzung statistischer Fachregeln in technische Prüfungen
+
+Die vollständige Anforderungsanalyse befindet sich hier:
+
+[Anforderungsanalyse anzeigen](docs/requirements.md)
 ## Technologien
 
 - R
