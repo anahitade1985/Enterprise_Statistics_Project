@@ -1,0 +1,18 @@
+AUTOMATISCHER ANALYSEBERICHT
+============================
+
+1. Umsatzanteil 2024: Großunternehmen weist mit 72,8 % den höchsten Anteil am Gesamtumsatz auf.
+
+2. Umsatzwachstum 2008-2024: Großunternehmen zeigt mit 114,1 % das stärkste relative Umsatzwachstum.
+
+3. Umsatz je tätige Person 2024: Großunternehmen erreicht mit 391.458 den höchsten Wert.
+
+4. Bruttolohn je Lohn- und Gehaltsempfänger 2024: Großunternehmen weist mit rund 51.637 Euro den höchsten berechneten Wert auf.
+
+5. Bruttowertschöpfung je tätige Person 2024: Großunternehmen weist mit 93.328 den höchsten Wert auf.
+
+6. Wachstum der Bruttowertschöpfung 2008-2024: Kleinstunternehmen zeigt mit 43,6 % das stärkste relative Wachstum.
+
+Hinweis:
+Auffällige Veränderungen sollten nicht automatisch als Fehler bewertet werden.
+Für eine fachliche Bewertung sind zusätzlich Metadaten und methodische Hinweise zu berücksichtigen.
