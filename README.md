@@ -6,6 +6,15 @@ Dieses Projekt analysiert Unternehmensstatistiken des Statistischen Bundesamtes 
 
 Ziel ist es, einen reproduzierbaren Analyseprozess aufzubauen, der Datenimport, Datenqualitätsprüfung, Datenaufbereitung, Plausibilitätskontrollen, Kennzahlenberechnung, Visualisierung und automatische Berichterstellung miteinander verbindet.
 
+## Kurzüberblick
+
+- Zeitraum: 2008–2024
+- 2.040 Beobachtungen
+- Reproduzierbare Analysepipeline in R
+- Automatisierte Datenqualitäts- und Plausibilitätsprüfungen
+- KPI-Analyse nach Unternehmensgröße
+- Automatische Visualisierung und Berichterstellung
+
 ## Datenquelle
 
 Quelle: Statistisches Bundesamt (Destatis), GENESIS-Online  
@@ -22,6 +31,7 @@ Untersuchte Unternehmensgrößen:
 
 ## Projektstruktur
 
+```text
 Enterprise_Statistics_Project/
 │
 ├── data/
@@ -41,23 +51,8 @@ Enterprise_Statistics_Project/
 │   └── analysis_summary.txt
 │
 ├── main.R
-└── README.md
-
-## Verarbeitungspipeline
-
-Die gesamte Analyse kann über eine zentrale Pipeline ausgeführt werden:
-
-source("main.R")
-
-Die Pipeline führt folgende Schritte aus:
-
-1. Datenimport
-2. Datenqualitätsprüfung
-3. Datenaufbereitung
-4. Plausibilitätsprüfung
-5. Kennzahlenanalyse
-6. Visualisierung
-7. Automatische Berichtserstellung
+├── README.md
+└── Enterprise_Statistics_Project.Rproj
 
 ## Datenqualität
 
