@@ -53,6 +53,25 @@ Enterprise_Statistics_Project/
 ├── main.R
 ├── README.md
 └── Enterprise_Statistics_Project.Rproj
+```
+
+## Verarbeitungspipeline
+
+Die gesamte Analyse kann über eine zentrale Pipeline ausgeführt werden:
+
+```r
+source("main.R")
+```
+
+Die Pipeline führt folgende Schritte aus:
+
+1. Datenimport
+2. Datenqualitätsprüfung
+3. Datenaufbereitung
+4. Plausibilitätsprüfung
+5. Kennzahlenanalyse
+6. Visualisierung
+7. Automatische Berichtserstellung
 
 ## Datenqualität
 
@@ -88,6 +107,16 @@ Die Analyse zeigt unter anderem:
 - Großunternehmen weisen auch die höchste Bruttowertschöpfung je tätige Person auf.
 - Kleinstunternehmen zeigen zwischen 2008 und 2024 das stärkste relative Wachstum der Bruttowertschöpfung je tätige Person.
 - Auffällige Veränderungen werden separat markiert und sollten mithilfe von Metadaten und methodischen Hinweisen fachlich geprüft werden.
+
+## Ergebnisvisualisierung
+
+### Umsatz je tätige Person 2024
+
+![Umsatz je tätige Person 2024](output/charts/02_umsatz_je_taetige_person_2024.png)
+
+### Bruttowertschöpfung je tätige Person 2024
+
+![Bruttowertschöpfung je tätige Person 2024](output/charts/04_bruttowertschoepfung_2024.png)
 
 ## Statistik und IT
 
